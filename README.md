@@ -26,6 +26,7 @@ Install PIL
 pip install pillow
 ```
 ### Running the code 
+#### Do not forget to replace the API Key and CXID with your own!
 
 To use the module - simply import the module and call the function. If you want to test, browse to the cloned directory : 
 
