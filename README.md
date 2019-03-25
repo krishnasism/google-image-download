@@ -4,7 +4,7 @@ Download images using the Google Custom Search API
 ## Use Case 
 Download image using the Google Custom Search Engine
 
-## Getting Startedd 
+## Getting Started
 ### Get your API Key and CX ID
 Get your API Key from [here](https://developers.google.com/custom-search/v1/overview)
 
